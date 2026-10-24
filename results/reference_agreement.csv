@@ -1,0 +1,4 @@
+,agreement_with_ties,cohen_kappa,agreement_without_ties,n_without_ties,n_vote_pairs
+GPT-4 vs human majority (judged subset),0.6467,0.4487,0.8269,208.0,
+GPT-4 vs human majority (all pairs),0.6526,0.4582,0.8369,374.0,
+human vs human (all pairs),0.6217,,0.755,,682.0

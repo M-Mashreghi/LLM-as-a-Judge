@@ -1,0 +1,4 @@
+,Qwen2.5-0.5B-Instruct,Qwen2.5-1.5B-Instruct,Qwen2.5-3B-Instruct,GPT-4
+reasoning,,0.5714,0.6667,0.913
+roleplay,0.0,1.0,0.8684,0.8866
+writing,,0.72,0.8254,0.7386
